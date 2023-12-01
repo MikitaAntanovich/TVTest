@@ -1,0 +1,8 @@
+<resources>
+    <style name="Base.Theme.TVTest" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+    <style name="Theme.TVTest" parent="Base.Theme.TVTest" />
+</resources>
